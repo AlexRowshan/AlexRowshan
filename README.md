@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🚀 Alexander Rowshan | Computer Science Undergrad @ USC Viterbi | Aspiring Software Engineer
+🚀 Alexander Rowshan | Computer Science Undergrad @ USC Viterbi w/ Minor in Artificial Intelligence Applications | Aspiring Software Engineer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-rowshan) 
