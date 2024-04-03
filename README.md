@@ -2,9 +2,6 @@
 
 🚀 Alexander Rowshan | Computer Science Undergrad @ USC Viterbi | Aspiring Software Engineer
 
-Hello! My name is Alex. I’m a Junior Computer Science at the University of Southern California with a minor in Artificial Intelligence Applications, My academic journey is enriched with advanced coursework in Data Structures and Algorithms, Software Development, Artificial Intelligence, iOS App Development, among many others.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-rowshan) 
 
